@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://siddbhattacherya.github.io/csb-uzdu9/static/css/main.82119588.chunk.css",
+    "main.js": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/main.2dd9f315.chunk.js",
+    "main.js.map": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/main.2dd9f315.chunk.js.map",
+    "runtime-main.js": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/runtime-main.82e70721.js",
+    "runtime-main.js.map": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/runtime-main.82e70721.js.map",
+    "static/js/2.a054f75d.chunk.js": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/2.a054f75d.chunk.js",
+    "static/js/2.a054f75d.chunk.js.map": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/2.a054f75d.chunk.js.map",
+    "index.html": "https://siddbhattacherya.github.io/csb-uzdu9/index.html",
+    "static/css/main.82119588.chunk.css.map": "https://siddbhattacherya.github.io/csb-uzdu9/static/css/main.82119588.chunk.css.map",
+    "static/js/2.a054f75d.chunk.js.LICENSE.txt": "https://siddbhattacherya.github.io/csb-uzdu9/static/js/2.a054f75d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e70721.js",
+    "static/js/2.a054f75d.chunk.js",
+    "static/css/main.82119588.chunk.css",
+    "static/js/main.2dd9f315.chunk.js"
+  ]
+}
